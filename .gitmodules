@@ -2,14 +2,4 @@
 	path = master
 	url = https://github.com/William954/poliza_reports.git
 	branch = master
-<<<<<<< HEAD
-[submodule "poliza_reports"]
-	path = poliza_reports
-	url = https://github.com/William954/poliza_reports.git
-=======
 
-[submodule "William954/poliza_reports"]
-	path = William954/poliza_reports
-	url = git@github.com:William954/poliza_reports.git
->>>>>>> f1bee0dd5c61f5949d426ccf709e068d1b7101de
-	branch = master
