@@ -2,3 +2,8 @@
 	path = master
 	url = https://github.com/William954/poliza_reports.git
 	branch = master
+
+[submodule "William954/poliza_reports"]
+	path = William954/poliza_reports
+	url = git@github.com:William954/poliza_reports.git
+	branch = master
